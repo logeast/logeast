@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Logeast.
 
-A UX Engineer with a focus on design and game develop.
+A UX Engineer with a focus on design and application develop.
 
 
 I write [articles](https://logeast.github.io/) about fantastic things.
